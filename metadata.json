@@ -1,0 +1,6 @@
+{
+  "name": "Procedural Map Generator",
+  "description": "A procedural 2D map generator that produces a 25x25 grid of landscape emojis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
